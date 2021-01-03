@@ -2,7 +2,7 @@
 
 I'm a software developer from Canada 🇨🇦
 
-I tend to keep my work and personal projects seperate, so you'll only see the latter on my Github account. Learn more about me on my [website](jpettit.ca) or check out some of my side projects right here.
+I tend to keep my work and personal projects seperate, so you'll only see the latter on my Github account. Learn more about me on my [website](https://www.jpettit.ca) or check out some of my side projects right here.
 
 👨‍💻 I’m currently working on:
 - Completing coding challenges (private repo for now)

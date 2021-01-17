@@ -1,4 +1,4 @@
-### Hi, I'm Julian 👋
+## Hi, I'm Julian 👋
 
 I'm a software developer from Canada.
 

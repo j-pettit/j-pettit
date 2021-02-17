@@ -8,7 +8,6 @@ I tend to keep my work and personal projects seperate, so you'll only see the la
 - A collection of financial tools
 - Completing coding challenges
 - Developing some handy [python scripts](https://github.com/j-pettit/useful-scripts)
-- Creating [classifiers](https://github.com/j-pettit/iris-classification) with machine learning libraries
 - Maintaining my [website](https://github.com/j-pettit/j-pettit.github.io)
 
 🏆 Projects I've completed:

@@ -5,6 +5,7 @@ I'm a software developer from Canada.
 I tend to keep my work and personal projects seperate, so you'll only see the latter on my Github account. Learn more about me on my [website](https://www.jpettit.ca) or check out some of my side projects right here.
 
 👨‍💻 Projects I’m currently working on:
+- A collection of financial tools
 - Completing coding challenges
 - Developing some handy [python scripts](https://github.com/j-pettit/useful-scripts)
 - Creating [classifiers](https://github.com/j-pettit/iris-classification) with machine learning libraries

@@ -2,7 +2,7 @@
 
 I'm a software developer from Canada.
 
-I tend to keep my work and personal projects seperate, so you'll only see the latter on my Github account. Learn more about me on my [website](https://www.jpettit.ca) or check out some of my side projects right here.
+Below you'll find some of the projects I have on the table as well as some I've completed that I'm particularly proud of. Learn more about me on my [website](https://www.jpettit.ca) and feel free to reach out.
 
 👨‍💻 Projects I’m currently working on:
 - A collection of financial tools
@@ -13,7 +13,3 @@ I tend to keep my work and personal projects seperate, so you'll only see the la
 🏆 Projects I've completed:
 - Self-aligning tripod design project - [TrackPod](https://github.com/TrackPod)
 - Autonomous passenger [detection](https://github.com/j-pettit/UWAFT-passenger-detection) for the University of Waterloo alternative fuels team
-
-<!--
-🌱
--->

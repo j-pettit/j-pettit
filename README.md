@@ -5,7 +5,7 @@ I'm a software developer from Canada.
 Below you'll find some of the projects I have on the table as well as some that I've completed. Learn more about me on my [website](https://www.jpettit.ca) and feel free to reach out.
 
 👨‍💻 Projects I’m currently working on:
-- A collection of financial tools
+- Creating a python library for financial mathematics
 - Completing coding challenges
 - Developing some handy [python scripts](https://github.com/j-pettit/useful-scripts)
 - Maintaining my [website](https://github.com/j-pettit/j-pettit.github.io)

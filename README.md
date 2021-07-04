@@ -13,11 +13,3 @@ Below you'll find some projects I have on the table as well as some that I've co
 ### 🏆 Projects I've completed:
 - Self-aligning tripod design project - [TrackPod](https://github.com/TrackPod)
 - Autonomous passenger [detection](https://github.com/j-pettit/UWAFT-passenger-detection) for the University of Waterloo alternative fuels team
-
-### 📈 My GitHub stats:
-<div align="left">
-  <br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=j-pettit&show_icons=true&theme=react&&hide_border=true"
-  />
-</div>

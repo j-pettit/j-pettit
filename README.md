@@ -1,6 +1,6 @@
 ## Hi, I'm Julian 👋
 
-I'm a software developer from Canada. I work at [D2L](https://github.com/Brightspace).
+I'm a software developer from Canada. <!-- I work at [D2L](https://github.com/Brightspace). -->
 
 Below you'll find some projects I have on the table as well as some that I've completed. Learn more about me on my [website](https://www.jpettit.ca) and feel free to reach out.
 
